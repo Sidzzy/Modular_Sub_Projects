@@ -1,0 +1,8 @@
+1.Write Source and destination (souurce destination)
+2.Write all the flights pair wise given with the cost of the flight. (source destination price)
+
+For Example:
+Bangalore Hyderabad
+Bangalore Hyderabad 10000
+Bangalore Chennai 4000
+Chennai Hyderabad 4000
